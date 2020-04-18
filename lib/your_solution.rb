@@ -1,4 +1,4 @@
 # putsWrite your solution here
 
 
-print "Hello World!"
+puts "Hello World!"
